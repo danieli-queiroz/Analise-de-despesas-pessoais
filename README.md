@@ -6,9 +6,9 @@ Este projeto tem como objetivo analisar e visualizar os gastos pessoais ao longo
 
 ## 🔷 Estrutura do Projeto
 
-◾ `dataset.csv` → Base de dados fictícia simulando os gastos mensais
-◾ `Código_para_limpeza_de_dados.py` → Script Python para tratamento de dados.
-◾ `Código_para_analisar_os_dados.py` → Script Python para análise e geração de gráficos
+◾ `dataset.csv` → Base de dados fictícia simulando os gastos mensais  
+◾ `Código_para_limpeza_de_dados.py` → Script Python para tratamento de dados.  
+◾ `Código_para_analisar_os_dados.py` → Script Python para análise e geração de gráficos  
 ◾ `Gráficos/` → Pasta com todas as visualizações geradas em `.png`
 
 ---
@@ -56,52 +56,60 @@ Este projeto tem como objetivo analisar e visualizar os gastos pessoais ao longo
 ◾ Lazer, educação e transporte também são categorias importantes para monitoramento.
 
 ### 🔸 Distribuição de Gastos por Categoria
+
 Gráfico de pizza mostra que **moradia** representa a maior parte das despesas (38,3%), seguida por **alimentação** (23,5%).
 ![Distribuição de Gastos por Categoria](Gráficos/Distribuição_de_gastos_por_categoria_em_porcentagem.png)
 
 ### 🔸 Gasto Acumulado por Categoria ao Longo do Ano
+
 Mostra o crescimento contínuo dos gastos em cada categoria. Destaque para moradia e alimentação, que crescem linearmente mês a mês.
 ![Gasto Acumulado por Categoria ao Longo do Ano](Gráficos/gasto_acumulado_por_categoria_ao_longo_do_ano.png)
 
 ### 🔸 Gastos: Essencial vs Não Essencial
+
 Visualização da proporção total de gastos essenciais (moradia, alimentação, transporte, saúde) vs não essenciais (lazer, educação, outros). Essenciais dominam o orçamento.
 ![Gastos Essenciais vs Não Essenciais](Gráficos/Gastos_entre_categorias_essencias_vs_não_essenciais.png)
 
 ### 🔸 Gastos Mensais: Essenciais vs Não Essenciais
+
 Análise mês a mês mostra que em **fevereiro** houve maior gasto não essencial, puxado por lazer e educação.
 ![Gastos Mensais Essenciais vs Não Essenciais](Gráficos/Gastos_mensais_essenciais_vs_não_essenciais.png)
 
 ### 🔸 Resumo Financeiro Mensal
+
 Compara receitas, despesas e saldo líquido de cada mês. Abril teve o melhor saldo líquido.
 ![Resumo Financeiro Mensal](Gráficos/Resumo_financeiro_mensal.png)
 
 ### 🔸 Sazonalidade de Gastos por Categoria
+
 Heatmap que mostra meses com maiores gastos por categoria. Destaque para lazer em fevereiro e transporte em março.
 ![Sazonalidade de Gastos por Categoria](Gráficos/Sazonalidade_de_gastos_por_categoria.png)
 
 ### 🔸 Top 5 Categorias de Gasto
+
 Confirma que **moradia**, **alimentação**, **lazer**, **educação** e **transporte** são os maiores vilões do orçamento.
 ![Top 5 Categorias de Gasto](Gráficos/Top_5_categorias_de_gasto.png)
 
 ### 🔸 Variação % Mensal por Categoria
 Permite observar oscilações de comportamento. Exemplo: lazer teve alta em fevereiro e queda em abril.
+
 ![Variação Percentual Mensal por Categoria](Gráficos/variação_mensal_por_categoria.png)
 
 ---
 
 ## 🔷 Tecnologias Utilizadas
 
-◾ **Python 3.10+**
-◾ **Pandas** → manipulação de dados
-◾ **Matplotlib** & **Seaborn** → visualizações
+◾ **Python 3.10+**  
+◾ **Pandas** → manipulação de dados  
+◾ **Matplotlib** & **Seaborn** → visualizações  
 ◾ **Google Colab / VSCode**
 
 ---
 
 ## 🔷 Próximos Passos
 
-◾ Automatizar alertas de gasto excessivo por categoria
-◾ Aplicar clusterização para perfis de consumo
+◾ Automatizar alertas de gasto excessivo por categoria  
+◾ Aplicar clusterização para perfis de consumo  
 ◾ Transformar essa análise em um dashboard interativo (ex: Streamlit ou Dash)
 
 ---
