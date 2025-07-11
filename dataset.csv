@@ -1,0 +1,51 @@
+Data,Tipo,Categoria,Descrição,Valor
+2025-01-05,Receita,Salário,Salário mensal,3000
+2025-01-08,Despesa,Alimentação,Supermercado,420
+2025-01-10,Despesa,Transporte,Uber,80
+2025-01-12,Despesa,Lazer,Cinema,50
+2025-01-14,Despesa,Moradia,Aluguel,1000
+2025-01-16,Despesa,Saúde,Farmácia,60
+2025-01-18,Receita,Freelance,Logo para cliente,500
+2025-01-22,Despesa,Alimentação,Restaurante,150
+2025-01-25,Despesa,Educação,Curso online,200
+2025-01-28,Despesa,Lazer,Bar,120
+2025-02-03,Receita,Salário,Salário mensal,3000
+2025-02-06,Despesa,Alimentação,Supermercado,430
+2025-02-08,Despesa,Transporte,Combustível,220
+2025-02-11,Despesa,Moradia,Aluguel,1000
+2025-02-14,Despesa,Saúde,Consulta,180
+2025-02-16,Receita,Freelance,Site institucional,900
+2025-02-19,Despesa,Lazer,Viagem,700
+2025-02-22,Despesa,Educação,Faculdade,350
+2025-02-25,Despesa,Alimentação,Restaurante,170
+2025-02-28,Despesa,Outros,Presentes,90
+2025-03-03,Receita,Salário,Salário mensal,3000
+2025-03-05,Despesa,Alimentação,Supermercado,460
+2025-03-07,Despesa,Moradia,Aluguel,1000
+2025-03-09,Despesa,Transporte,Manutenção carro,600
+2025-03-11,Despesa,Saúde,Farmácia,110
+2025-03-13,Receita,Freelance,E-commerce,1100
+2025-03-15,Despesa,Lazer,Show,320
+2025-03-17,Despesa,Educação,Curso Python,250
+2025-03-20,Despesa,Alimentação,Restaurante,190
+2025-03-25,Despesa,Outros,Doação,50
+2025-04-02,Receita,Salário,Salário mensal,3000
+2025-04-04,Despesa,Alimentação,Supermercado,440
+2025-04-06,Despesa,Transporte,Uber,100
+2025-04-08,Despesa,Moradia,Aluguel,1000
+2025-04-11,Despesa,Saúde,Exames,280
+2025-04-14,Receita,Freelance,App mobile,1300
+2025-04-17,Despesa,Lazer,Netflix,55
+2025-04-19,Despesa,Alimentação,Restaurante,160
+2025-04-22,Despesa,Educação,Workshop,180
+2025-04-25,Despesa,Outros,Multa,95
+2025-05-01,Receita,Salário,Salário mensal,3000
+2025-05-03,Despesa,Alimentação,Supermercado,470
+2025-05-06,Despesa,Moradia,Aluguel,1000
+2025-05-08,Despesa,Transporte,Combustível,240
+2025-05-11,Despesa,Saúde,Consulta,200
+2025-05-14,Receita,Freelance,Design de app,850
+2025-05-17,Despesa,Lazer,Cinema,60
+2025-05-19,Despesa,Alimentação,Restaurante,185
+2025-05-22,Despesa,Educação,Curso de dados,300
+2025-05-25,Despesa,Outros,Pet shop,100
