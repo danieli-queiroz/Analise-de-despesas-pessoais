@@ -1,4 +1,4 @@
-# 📊 Análise de Gastos Pessoais com Python
+#  Análise de Gastos Pessoais com Python
 
 Este projeto tem como objetivo analisar e visualizar os gastos pessoais ao longo de 5 meses, utilizando bibliotecas de análise de dados em Python. Através de gráficos interativos e visualizações claras, é possível identificar padrões de consumo, sazonalidade, categorias com maior peso no orçamento e a relação entre despesas essenciais e não essenciais.
 
